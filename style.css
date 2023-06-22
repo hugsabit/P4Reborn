@@ -24,6 +24,10 @@ a:hover {
     color: #000000;
 }
 
+figcaption {
+    color: #000000;
+}
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
