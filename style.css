@@ -16,10 +16,10 @@ button {
 a {
     text-decoration: none;
     cursor: pointer;
-    color: #FFFFFF;
+    color: #333333;
 }
 
-footer a:hover {
+.footer a:hover {
     color: black;
 }
 
@@ -766,7 +766,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #A13300;
+    background-color: #F3976C;
 }
 
 .tc-white {
