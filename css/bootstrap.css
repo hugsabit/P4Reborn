@@ -98,7 +98,6 @@ button,
 html input[type=button],
 input[type=reset],
 input[type=submit] {
-    -webkit-appearance: button;
     cursor: pointer
 }
 
@@ -134,7 +133,6 @@ input[type=search] {
     -webkit-box-sizing: content-box;
     -moz-box-sizing: content-box;
     box-sizing: content-box;
-    -webkit-appearance: textfield
 }
 
 input[type=search]::-webkit-search-cancel-button,
@@ -692,10 +690,6 @@ output {
 
 textarea.form-control {
     height: auto
-}
-
-input[type=search] {
-    -webkit-appearance: none
 }
 
 .form-group {
@@ -1438,7 +1432,6 @@ a.label:hover {
 }
 
 button.close {
-    -webkit-appearance: none;
     padding: 0;
     cursor: pointer;
     background: 0 0;
