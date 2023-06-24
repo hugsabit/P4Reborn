@@ -49,8 +49,18 @@ figcaption {
     margin: 6px auto;
 }
 
-.darck-footer {
+.darck-color {
     color: black;
+}
+
+.dark-button {
+    color: black;
+    background-color: #F3976C;
+}
+
+.dark-button:hover {
+    color: #F3976C;
+    background-color: #black;
 }
 
 div.row.row-no-gutters.social {
