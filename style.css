@@ -23,12 +23,12 @@ figcaption {
     color: black;
 }
 
-.footer a {
-    min-height: 50px;
-}
-
 .footer a:hover {
     color: black;
+}
+
+.footer-list a {
+    height: 50px;
 }
 
 .bloc {
