@@ -386,6 +386,10 @@ code {
     margin-left: auto
 }
 
+div.navbar-header {
+    padding: 20px 0;
+}
+
 @media (min-width:768px) {
     .container {
         width: 750px
@@ -1137,7 +1141,6 @@ tbody.collapse.in {
 }
 
 .navbar-nav {
-    margin: 7.5px -15px
 }
 
 .navbar-nav>li>a {
