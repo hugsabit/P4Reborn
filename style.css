@@ -29,7 +29,8 @@ figcaption {
 
 .footer-list a {
     display: block;
-    height: 50px;
+    height: 40px;
+    line-height: 50px;
 }
 
 .bloc {
