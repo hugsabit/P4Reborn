@@ -54,13 +54,13 @@ figcaption {
 }
 
 .dark-button {
-    color: black;
-    background-color: #F3976C;
+    color: black!important;
+    background-color: #F3976C!important;
 }
 
 .dark-button:hover {
-    color: #F3976C;
-    background-color: #black;
+    color: #F3976C!important;
+    background-color: #black!important;
 }
 
 div.row.row-no-gutters.social {
