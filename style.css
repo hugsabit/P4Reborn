@@ -67,6 +67,7 @@ div.row.row-no-gutters.social {
     height: 100%;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .left-form-content {
