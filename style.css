@@ -63,6 +63,14 @@ div.row.row-no-gutters.social {
     margin: 6px auto;
 }
 
+.left-form {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 40px;
+}
+
 .bloc {
     width: 100%;
     clear: both;
