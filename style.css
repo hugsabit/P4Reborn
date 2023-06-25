@@ -741,6 +741,7 @@ p {
 }
 
 .cta-hero-bt {
+    font-family: "helvetica";
     margin-top: 22px;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
